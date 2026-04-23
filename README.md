@@ -1,22 +1,78 @@
-# SQL E-commerce Data Analysis
+# E-Commerce Sales & Revenue Analytics
 
-## Description
-This project performs SQL-based analysis on an e-commerce dataset to extract insights on pricing, discounts, customer behavior, and product trends.
+##  Project Overview
 
-## Dataset
-The dataset includes product details such as name, category, price, discount, stock level, customer gender, return rate, and popularity.
+This project focuses on analyzing a large-scale e-commerce dataset (~1 million records) to extract business insights related to revenue, profit, customer behavior, and operational efficiency.
 
-## SQL Queries Used
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- Aggregate functions (AVG, COUNT, MAX, MIN)
+The project uses Python, SQL, and Power BI to perform end-to-end data analytics including data preprocessing, exploratory data analysis (EDA), statistical testing, and dashboard visualization.
 
-## Key Insights
-- Identified average pricing trends across categories
-- Analyzed product popularity and stock levels
-- Studied customer distribution and return rates
+---
 
-## Conclusion
-SQL queries helped uncover meaningful insights about product performance and customer behavior in the e-commerce dataset.
+##  Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* SQL-based data querying
+* Statistical Analysis (ANOVA, Chi-Square)
+* Power BI Dashboard (interactive)
+* Business insights & recommendations
+
+---
+
+##  Tech Stack
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL
+* Power BI
+* Jupyter Notebook
+
+---
+
+##  Key Insights
+
+* All product categories show similar revenue and profit (balanced marketplace)
+* Shipping cost is the main factor affecting profit
+* Dubai is the top revenue-generating location
+* Discounts do not significantly impact return rates
+
+---
+
+##  Project Files
+
+* `ecommfinal.ipynb` → Python analysis
+* `queries.sql` → SQL queries
+* `ecommon.pbix` → Power BI dashboard
+* `presentation.pptx` → Project presentation
+* `report.pdf` → Detailed report
+
+---
+
+##  Setup & Usage
+
+1. Open the Jupyter Notebook (`.ipynb`) to view analysis
+2. Run SQL queries in MySQL / PostgreSQL
+3. Open Power BI file to explore dashboard
+
+---
+
+##  GitHub Repository
+
+* https://github.com/adityaavhad06
+* https://github.com/PwnTanay
+* https://github.com/sumitkadamaids-stack/ecomm.dataanalytics
+
+---
+
+##  Contributors
+
+* Sumit Kadam (SA234)
+* Aditya Avhad (SA201)
+* Pawan Kushwah (SA218)
+
+---
+
+##  Conclusion
+
+This project demonstrates how data analytics can be used to extract meaningful insights from large datasets and support business decision-making.
+
+This project demonstrates how data analytics can be used to extract meaningful insights from large datasets and support business decision-making.
